@@ -1,2 +1,2 @@
-# software-testing
- Self-learning software test notes
+# 软件测试
+ 自学软件测试笔记
